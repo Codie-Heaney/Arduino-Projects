@@ -1,2 +1,2 @@
 # Arduino-Projects
-Collection Of Arduino Projects
+Collection of hobby Arduino projects created over the course of a year as experimentation to learn and understand how the board operates, while also creating interesting and strange devices or robots. Each project is named using a play on the word Arduino, this is not meant for a professional environment and does not reflect the way code would be written in a professional environment.
